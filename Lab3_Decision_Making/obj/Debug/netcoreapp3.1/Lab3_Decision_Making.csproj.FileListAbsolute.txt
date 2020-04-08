@@ -1,0 +1,13 @@
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\bin\Debug\netcoreapp3.1\Lab3_Decision_Making.exe
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\bin\Debug\netcoreapp3.1\Lab3_Decision_Making.deps.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\bin\Debug\netcoreapp3.1\Lab3_Decision_Making.runtimeconfig.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\bin\Debug\netcoreapp3.1\Lab3_Decision_Making.runtimeconfig.dev.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\bin\Debug\netcoreapp3.1\Lab3_Decision_Making.dll
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\bin\Debug\netcoreapp3.1\Lab3_Decision_Making.pdb
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.csprojAssemblyReference.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.csproj.CoreCompileInputs.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.AssemblyInfoInputs.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.AssemblyInfo.cs
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.dll
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.pdb
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab3_Decision_Making\Lab3_Decision_Making\obj\Debug\netcoreapp3.1\Lab3_Decision_Making.genruntimeconfig.cache
